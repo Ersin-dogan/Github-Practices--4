@@ -1,5 +1,6 @@
 # Github-Practices--4
 
+
 # Visual Studio Code'un Branch menüsü
 Takım halinde yapılan projelerde her takım üyesi kendine bir branch oluşturur. Böylece projenin ana yapısını oluşturmada esneklik sağlanmış olur.
 Git desktop'daki projeyi Vs Code gönderdiğimizde ilk olarak çalışacağımız branch'ı seçmemiz gerekir. Bunun için ekranın sağ alt köşesinde bulunan "main" yazısını tıklamamız (1. Adım) gerekir ve daha sonra çıkan  menüden (2.adım) çalışacağımız branch'ı seçmemiz gerekir.
